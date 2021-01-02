@@ -1,2 +1,2 @@
-boot:
-  name: zhimin
+config:
+  info: master branch,springcloud-config/config-dev.yaml,version=1
